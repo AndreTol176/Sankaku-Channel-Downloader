@@ -1,2 +1,2 @@
 # Sankaku-Channel-Downloader
-beta: 205;
+beta em Br4ve;
